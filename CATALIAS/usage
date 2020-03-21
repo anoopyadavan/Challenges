@@ -1,0 +1,6 @@
+# docker container usage load < challenge.tar
+# docker ps
+# docker stop <NAme>
+# start the docker container and login to the ssh using the credentials user and userpass 
+
+
